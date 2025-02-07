@@ -25,3 +25,8 @@ li a:hover:not(.active) { /* Change colour on hover of all blocks but NOT the .a
 .active { /* The active class */
 	background-color: #04AA6D;
 }
+
+h1,Home{
+	color:green;
+	background-color: aqua;
+}
